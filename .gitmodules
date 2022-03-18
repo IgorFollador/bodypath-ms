@@ -1,0 +1,6 @@
+[submodule "bodyPath-frontend"]
+	path = bodyPath-frontend
+	url = https://github.com/IgorFollador/bodyPath-frontend.git
+[submodule "bodypath-customer"]
+	path = bodypath-customer
+	url = https://github.com/IgorFollador/bodypath-customer.git
