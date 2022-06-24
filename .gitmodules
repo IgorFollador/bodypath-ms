@@ -4,3 +4,15 @@
 [submodule "bodypath-customer"]
 	path = bodypath-customer
 	url = https://github.com/IgorFollador/bodypath-customer.git
+[submodule "bodypath-physicalEvaluation"]
+	path = bodypath-physicalEvaluation
+	url = https://github.com/IgorFollador/bodypath-physicalEvaluation.git
+[submodule "bodypath-checkout"]
+	path = bodypath-checkout
+	url = https://github.com/IgorFollador/bodypath-checkout.git
+[submodule "bodypath-apiGateway"]
+	path = bodypath-apiGateway
+	url = https://github.com/IgorFollador/bodypath-apiGateway.git
+[submodule "bodypath-frontend"]
+	path = bodypath-frontend
+	url = https://github.com/IgorFollador/bodypath-frontend.git
