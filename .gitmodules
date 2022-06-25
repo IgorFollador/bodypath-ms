@@ -16,3 +16,6 @@
 [submodule "bodypath-frontend"]
 	path = bodypath-frontend
 	url = https://github.com/IgorFollador/bodypath-frontend.git
+[submodule "bodypath-foodPlan"]
+	path = bodypath-foodPlan
+	url = https://github.com/IgorFollador/bodypath-foodPlan.git
